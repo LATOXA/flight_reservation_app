@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+
+flights.db
+
+
+.vscode/
+
+
+.DS_Store
+Thumbs.db
